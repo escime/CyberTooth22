@@ -123,6 +123,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Set Shooter Config.vi" Type="VI" URL="../../2022 CyberTooth SPIN TEST/Set Shooter Config.vi"/>
 			<Item Name="Overtime.vi" Type="VI" URL="../../Overtime.vi"/>
 			<Item Name="Turn to Angle.vi" Type="VI" URL="../../Turn to Angle.vi"/>
+			<Item Name="Sensor Reads.vi" Type="VI" URL="../Sensor Reads.vi"/>
+			<Item Name="Global Sensor Reads.vi" Type="VI" URL="../Global Sensor Reads.vi"/>
 		</Item>
 		<Item Name="Utility VIs" Type="Folder">
 			<Item Name="Get_Joystick.vi" Type="VI" URL="../Utility VIs/Get_Joystick.vi"/>
@@ -773,7 +775,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">220</Property>
+				<Property Name="Bld_version.build" Type="Int">221</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
