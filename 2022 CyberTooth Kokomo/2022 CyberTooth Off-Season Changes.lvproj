@@ -133,6 +133,8 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Commands" Type="Folder">
 			<Item Name="Drive to Distance.vi" Type="VI" URL="../Commands/Drive to Distance.vi"/>
+			<Item Name="Auto_Play_Grab.vi" Type="VI" URL="../Commands/Auto_Play_Grab.vi"/>
+			<Item Name="Auto_Play_Read_Commands.vi" Type="VI" URL="../Commands/Auto_Play_Read_Commands.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
