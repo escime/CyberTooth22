@@ -7,7 +7,7 @@ I've broken my personal goals down into three categories and ordered them by pri
 
 TELEOPERATED SOFTWARE--------------------------------------------------------------------------------------------------------------------------------
 
-  (1) Altered controller implementation to make programming new controls easier
+  (1) Altered controller implementation to make programming new controls easier -> Completed
   
   (2) Speed controlled ball path implementation (indexer & accelerator)
   
@@ -22,11 +22,11 @@ TELEOPERATED SOFTWARE-----------------------------------------------------------
 
 AUTONOMOUS SOFTWARE-------------------------------------------------------------------------------------------------------------------------------
 
-  (1) Auto commands implementation. This may entail a refactoring of how teleop works as well, but this is my #1 priority.
+  (1) Auto commands implementation. This may entail a refactoring of how teleop works as well, but this is my #1 priority. -> In Progress
   
-  (2) Concurrency in auto routines.
+  (2) Concurrency in auto routines. -> Pending Testing
   
-  (3) Build play via text/text parser from file.
+  (3) Build play via text/text parser from file. -> Completed
 
 
 OTHER SOFTWARE-----------------------------------------------------------------------------------------------------------------------------------------
