@@ -135,6 +135,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Drive to Distance.vi" Type="VI" URL="../Commands/Drive to Distance.vi"/>
 			<Item Name="Auto_Play_Grab.vi" Type="VI" URL="../Commands/Auto_Play_Grab.vi"/>
 			<Item Name="Auto_Play_Read_Commands.vi" Type="VI" URL="../Commands/Auto_Play_Read_Commands.vi"/>
+			<Item Name="Auto_Targeting.vi" Type="VI" URL="../Commands/Auto_Targeting.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Untitled Library 1.lvlib" Type="Library" URL="../Untitled Library 1.lvlib"/>
@@ -750,6 +751,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_JoystickAxis Types.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickAxis Types.ctl"/>
 				<Item Name="NetComm_getJoystickDesc.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getJoystickDesc.vi"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="WPI_JoystickSetOutputs.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Joystick/WPI_JoystickSetOutputs.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
